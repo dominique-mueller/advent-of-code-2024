@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2024",
+  "description": "Advent of Code 2024",
+  "version": "1.0.0",
+  "private": true,
+  "license": "The Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominique-mueller/advent-of-code-2024"
+  },
+  "engines": {
+    "node": "22.x",
+    "npm": "10.x"
+  },
+  "scripts": {
+    "test": "tsx --test"
+  },
+  "devDependencies": {
+    "@types/node": "22.x",
+    "prettier": "3.4.x",
+    "tsx": "4.19.x",
+    "typescript": "5.7.x"
+  }
+}
