@@ -13,7 +13,8 @@
     "npm": "10.x"
   },
   "scripts": {
-    "test": "tsx --test"
+    "test": "tsx --test",
+    "test:day-1": "tsx --test ./day-1/day-1.test.ts"
   },
   "devDependencies": {
     "@types/node": "22.x",
