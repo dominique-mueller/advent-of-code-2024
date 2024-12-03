@@ -15,7 +15,8 @@
   "scripts": {
     "test": "tsx --test",
     "test:day-1": "tsx --test ./day-1/day-1.test.ts",
-    "test:day-2": "tsx --test ./day-2/day-2.test.ts"
+    "test:day-2": "tsx --test ./day-2/day-2.test.ts",
+    "test:day-3": "tsx --test ./day-3/day-3.test.ts"
   },
   "devDependencies": {
     "@types/node": "22.x",
