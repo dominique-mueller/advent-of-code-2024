@@ -17,7 +17,8 @@
     "test:day-1": "tsx --test ./day-1/day-1.test.ts",
     "test:day-2": "tsx --test ./day-2/day-2.test.ts",
     "test:day-3": "tsx --test ./day-3/day-3.test.ts",
-    "test:day-4": "tsx --test ./day-4/day-4.test.ts"
+    "test:day-4": "tsx --test ./day-4/day-4.test.ts",
+    "test:day-5": "tsx --test ./day-5/day-5.test.ts"
   },
   "devDependencies": {
     "@types/node": "22.x",
